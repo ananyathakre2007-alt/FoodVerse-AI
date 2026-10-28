@@ -1,0 +1,7 @@
+backend/venv/
+backend/.env
+backend/foodverse.db
+__pycache__/
+node_modules/
+frontend/dist/
+.vscode/
